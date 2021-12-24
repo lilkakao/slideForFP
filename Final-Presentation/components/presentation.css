@@ -9,7 +9,7 @@ html{
 .container-1{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(/assests/glass.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(assests/glass.jpg);
     background-position: center;
     background-size: cover;
     border-bottom: 4px solid #000;
