@@ -82,12 +82,14 @@ h1{
     width: 100%;
     height: 100%;
     background-color: #343a40;
+    padding-bottom: 10px;
 }
 #alem{
-    margin: 0px 0px 0px 0px; 
+    margin: 0 auto; 
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding:10px 10px 10px 10px ;
-    background-color: black;
-
+    background-color:wheat;
     width: 100%;
 }
 .card { 
@@ -99,10 +101,11 @@ h1{
     margin-bottom: 25px;
 } 
 .alem{
+    margin: 0px 0px 0px 0px;
     font-size: 75px;
     text-align: center;
     justify-content: space-between;
-    letter-spacing: 35px;
+    letter-spacing: 25px;
     margin-bottom: -3px;
 
 }
@@ -117,8 +120,64 @@ h1{
     width: 100%; 
     height: 100%; 
 }
+h2{
+    color: #343a40;
+    text-align: center;
+    text-transform: uppercase;
+}
+#cust-1{
+    align-items: center;
+    margin-left: 220px;
+    font-size: large;
+    padding-bottom: 10px;
+}
+#cust-2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container-3 {
+    padding-bottom: 25px;
+}
+.container-3 img{
+    margin-left: 170px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 80px;
+}
+em{
+    font-size: 80%;
+}
+#cust-2{
+    padding-bottom: 25px;
+    margin-left: 70px;
+}
+#decrp{
+    background-color:burlywood;
+}
 #project{
     text-align: center;
     font-size: 75px;
 }
+#projectt{
+    margin-left: -250px;
+    width: 600px;
+}
+#part-1{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 90px;
+}
+#part-11{
+    margin-top: -2950px;
+    margin-left: 1220px;
+}
+#part-12{
+    margin-top: -2150px;
+    margin-left: 700px;
+}
+#part-13{
+    margin-top: -1150px;
+    margin-left: 1070px;
+}
+
 
